@@ -1,0 +1,3 @@
+emfdb_general_homepage:
+    path:     /
+    defaults: { _controller: emfdbGeneralBundle:Default:index }
